@@ -1,0 +1,11 @@
+*.v2
+*.cache
+*.dll
+*.vsidx
+*.testlog
+*.pdb
+*.exe
+*.Up2Date
+Tarea2/ListaDoblesTest/bin/Debug/net8.0/CoverletSourceRootsMapping_ListaDoblesTest
+Tarea2/.vs/Tarea2/v17/TestStore/0/testlog.manifest
+Tarea2/.vs/Tarea2/v17/.suo
